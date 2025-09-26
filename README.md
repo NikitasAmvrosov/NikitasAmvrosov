@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Nikitas 👋  
+Aerospace Engineering student at the University of Stuttgart | Aspiring Software Engineer  
 
-<!--
-**NikitasAmvrosov/NikitasAmvrosov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔹 Programming in **C**, learning **C++**, with experience in file handling, algorithms, and modular system design  
+🔹 Interested in applying engineering thinking to software development  
+🔹 Currently building my portfolio of projects in C and C++  
 
-Here are some ideas to get you started:
+## 🚀 Featured Projects
+- [Programming Portfolio](https://github.com/NikitasAmvrosov/Programming_Portfolio) – coursework and personal projects in C  
+- Flight Management System – console-based system simulating airline operations (structs, modular code, file I/O)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Current Focus
+- Strengthening my C++ skills  
+- Expanding into algorithms & data structures  
+- Applying programming to engineering contexts  
+
+## 📫 Connect with me
+- [LinkedIn](https://www.linkedin.com/in/nikitas-amvrosov/)  
